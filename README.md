@@ -15,3 +15,5 @@ pip install cdsapi
 1. 需要登录ECMWF账号
 2. 查看令牌信息
 3. 将.cdsapirc令牌文件置于Home目录（用户目录）
+4. 更改main.py或main_multi_processing.py参数
+5. 上述完成后即可运行脚本下载所需数据
